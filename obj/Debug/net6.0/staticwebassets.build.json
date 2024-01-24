@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "fuBxj4e32yG2Nlhm5JNsRdcy5f6Z2zp2gxQIhpF2tto=",
+  "Source": "DesignAutomationBootCamp",
+  "BasePath": "_content/DesignAutomationBootCamp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DesignAutomationBootCamp\\wwwroot",
+      "Source": "DesignAutomationBootCamp",
+      "ContentRoot": "D:\\Repos\\DesignAutomationBootCamp\\wwwroot\\",
+      "BasePath": "_content/DesignAutomationBootCamp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Repos\\DesignAutomationBootCamp\\wwwroot\\bundles\\UpdateRVTParam.zip",
+      "SourceId": "DesignAutomationBootCamp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repos\\DesignAutomationBootCamp\\wwwroot\\",
+      "BasePath": "_content/DesignAutomationBootCamp",
+      "RelativePath": "bundles/UpdateRVTParam.zip",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bundles\\UpdateRVTParam.zip"
+    },
+    {
+      "Identity": "D:\\Repos\\DesignAutomationBootCamp\\wwwroot\\index.html",
+      "SourceId": "DesignAutomationBootCamp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repos\\DesignAutomationBootCamp\\wwwroot\\",
+      "BasePath": "_content/DesignAutomationBootCamp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Repos\\DesignAutomationBootCamp\\wwwroot\\js\\ApsDesignAutomation.js",
+      "SourceId": "DesignAutomationBootCamp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repos\\DesignAutomationBootCamp\\wwwroot\\",
+      "BasePath": "_content/DesignAutomationBootCamp",
+      "RelativePath": "js/ApsDesignAutomation.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\ApsDesignAutomation.js"
+    }
+  ]
+}
